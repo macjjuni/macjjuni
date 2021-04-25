@@ -1,4 +1,5 @@
-## Hi~ 안녕하세요. "꾸준함이 생명❞이라는 인생의 모토를 가진 꾸생입니다 👋
+## Hi~ 안녕하세요. 
+### "꾸준함이 생명❞이라는 인생의 모토를 가진 꾸생입니다 👋
 - 🔭 Resume 이력서: Resume
 - 🌱 Portfolio 포트폴리오: Portfolio
 - 🙌 Tistory 블로그 : Tistory
