@@ -4,7 +4,7 @@
 
 - 🌱 Portfolio 포트폴리오: Portfolio
 - 🙌 Tistory 블로그 : [Tistory](https://juni-official.tistory.com/)  
-- 📫 How to reach me 연락하기: hello8836@naver.com
+- 📫 How to reach me 연락하기: macjjuni@gmail.com
 - ⚡ 취미: 피아노치기, 책상 정리하기
 
 ### 학력
