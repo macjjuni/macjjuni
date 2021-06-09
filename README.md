@@ -5,7 +5,7 @@
 - 🌱 Portfolio 포트폴리오: [Portfolio](https://www.juni-official.com/)
 - 🙌 Tistory 블로그 : [Tistory](https://juni-official.tistory.com/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
-- ⚡ 취미: 피아노치기, 책상 정리하기
+- ⚡ 취미: 피아노치기, 데스크테리어
 
 ### 학력
 
