@@ -4,7 +4,7 @@
 - 🌱 Portfolio 포트폴리오: [Portfolio](https://www.juni-official.com/)
 - 🙌 Tistory 블로그 : [Tistory](https://juni-official.tistory.com/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
-- ⚡ 취미: 피아노치기, 데스크테리어
+- ⚡ 취미: 피아노, 데스크테리어
 ##
 ### 학력
 - 2014.02 ~ 2020.02 서일대학교 소프트웨어공학과(졸업)
