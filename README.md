@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌱 Portfolio 포트폴리오: [🔗 Portfolio](https://www.juni-official.com/) (AWS 과금으로 인해 서버를 중단시켜 놨습니다ㅠ)
+- 🌱 Portfolio 포트폴리오: [🔗 Portfolio](https://www.juni-official.com/) (AWS 과금으로 인해 서버를 중단시켜 놨습니다😱)
 - 🙌 Tistory 블로그 : [🔗 Tistory](https://juni-official.tistory.com/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
 - ⚡ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
