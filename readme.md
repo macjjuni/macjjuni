@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌲 Portfolio 포트폴리오: [🔗 Portfolio](https://www.juni-official.com/) (리뉴얼 중... 🛠️)
+- 🌲 Portfolio 포트폴리오: [🔗 Portfolio](https://www.macjjuni.com/) (작성 중... 🛠️)
 - 🧑🏻‍💻 Tistory 블로그 : [🔗 Tistory](https://juni-official.tistory.com/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
 - 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
