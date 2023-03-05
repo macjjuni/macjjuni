@@ -4,7 +4,7 @@
 
 <br>
 
-- 🌲 Portfolio 포트폴리오: [🔗 Portfolio 방문하기](https://kku.dev/)
+- 🌲 Portfolio 포트폴리오: [🔗 Portfolio 방문하기](https://kku.dev/) (블로그와 통합 작업 중.. 🛠️)
 - 🧑🏻‍💻 Tistory 블로그 : [🔗 Tistory 방문하기](https://juni-official.tistory.com/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
 - 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
