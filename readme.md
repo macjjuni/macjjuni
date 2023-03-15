@@ -2,7 +2,7 @@
 <br>
 <h3>"꾸준함이 생명"이라는 인생 모토를 가진 꾸생입니다.</h3>
 
-- 🌲 Blog 블로그: [🔗 Portfolio 방문하기](https://kku.dev/) (티스토리와 통합 작업 중.. 🛠️)
+- 🌲 Blog 블로그: [🔗 Blog 방문하기](https://kku.dev/) (티스토리와 통합 작업 중.. 🛠️)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
 - 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
 
