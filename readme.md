@@ -2,24 +2,22 @@
 <br>
 <h3>"꾸준함이 생명"이라는 인생 모토를 가진 꾸생입니다.</h3>
 
-<br>
-
-- 🌲 Portfolio 포트폴리오: [🔗 Portfolio 방문하기](https://kku.dev/) (블로그와 통합 작업 중.. 🛠️)
-- 🧑🏻‍💻 Tistory 블로그 : [🔗 Tistory 방문하기](https://juni-official.tistory.com/)
+- 🌲 Blog 블로그: [🔗 Portfolio 방문하기](https://kku.dev/) (티스토리와 통합 작업 중.. 🛠️)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
 - 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
 
+<br>
 
 ## 📚 History
-<br>
 
 - 2023-03 ~ current ...
 - 2022-03 ~ 2023-03 인프라큐브 프론트엔드 리더
 - 2014.02 ~ 2020.02 서일대학교 소프트웨어공학과
 
+<br>
+
 ## 💻 Skill
 
-<br>
 <div align="center">
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
