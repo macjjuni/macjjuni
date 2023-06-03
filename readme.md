@@ -10,8 +10,8 @@
 
 ## 📚 History
 
-- 2023.3 ~ current 스트라토  - Front-End Developer
-- 2022.3 ~ 2023.3  인프라큐브 - Front-End Developer
+- 2023.3 ~ current 스트라토  - FE Developer
+- 2022.3 ~ 2023.3  인프라큐브 - FE Developer
 - 2014.2 ~ 2020.2  서일대학교 소프트웨어공학과
 
 <br>
