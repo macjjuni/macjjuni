@@ -7,7 +7,7 @@
 
 - 🌲 Blog 블로그: [🔗 방문하기](https://kku.dev/)
 - 📫 E-Mail 보내기 : macjjuni@gmail.com
-- 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, 피아노치기, 청소하기
+- 🤾🏻‍♂️ Hobby 취미: 블로깅, 데스크테리어, <del>피아노치기</del>, 청소하기
 
 <br>
 
