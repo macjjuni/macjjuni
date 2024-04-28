@@ -9,8 +9,8 @@
 
 <br>
 
-- 🌲 Blog 블로그: [🔗 방문하기](https://kku.dev/)
-- 📫 E-Mail 보내기 : macjjuni@gmail.com
+- 🌲 블로그: [🔗 방문하기](https://kku.dev/)
+- 📫 이메일 : macjjuni@gmail.com
 - 🤾🏻‍♂️ 취미/관심사: 블로깅 📝, 피아노 🎹, 인테리어 🪑, 청소 🧹, ₿
 
 <br>
