@@ -15,13 +15,6 @@
 
 <br>
 
-## 🌳 Experience
-
-- 2023.3 ~ current 스트라토  - FE Developer
-- 2022.3 ~ 2023.3  인프라큐브 - FE Developer
-
-<br>
-
 ## 💜 Like
 
 
