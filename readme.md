@@ -21,9 +21,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=scss,tailwind,emotion,styledcomponents)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,webpack)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=docker,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,webpack,docker,firebase)](https://skillicons.dev)
 
 <img src="https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white" />
 
