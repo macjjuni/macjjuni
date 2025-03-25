@@ -17,7 +17,7 @@
 
 ## 💜 Like
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,next,ts,vite,jest,idea)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vue,next,ts,vite,vitest,jest,idea)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=scss,tailwind,emotion,styledcomponents)](https://skillicons.dev)
 
