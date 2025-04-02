@@ -1,10 +1,3 @@
-
-
-<div align="right">
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmacjjuni&count_bg=%23FF5050&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=View&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 <h3>안녕하세요? 👋<br/>프론트엔드 개발자 <code><strong>꿀양갱갱갱</strong></code>입니다.</h3>
 
 <br>
